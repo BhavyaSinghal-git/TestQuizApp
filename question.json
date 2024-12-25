@@ -1,0 +1,102 @@
+[
+    {
+      "question": "What is the capital of France?",
+      "options": [
+        "Berlin",
+        "Madrid",
+        "Paris",
+        "Rome"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Who wrote 'To Kill a Mockingbird'?",
+      "options": [
+        "Harper Lee",
+        "Mark Twain",
+        "J.K. Rowling",
+        "George Orwell"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "What is the chemical symbol for water?",
+      "options": [
+        "H2O",
+        "O2",
+        "NaCl",
+        "CO2"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "options": [
+        "Earth",
+        "Mars",
+        "Jupiter",
+        "Venus"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the largest mammal in the world?",
+      "options": [
+        "Elephant",
+        "Blue Whale",
+        "Giraffe",
+        "Shark"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Which country is famous for the Taj Mahal?",
+      "options": [
+        "India",
+        "Pakistan",
+        "Bangladesh",
+        "Nepal"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "What is the square root of 64?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "options": [
+        "Pablo Picasso",
+        "Leonardo da Vinci",
+        "Vincent van Gogh",
+        "Claude Monet"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the smallest prime number?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "0"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the boiling point of water in Celsius?",
+      "options": [
+        "90",
+        "95",
+        "100",
+        "105"
+      ],
+      "correctAnswer": 2
+    }
+  ]  

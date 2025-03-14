@@ -1,4 +1,6 @@
-[
+{
+  "quizId": "1",
+  "questions": [
     {
       "question": "What is the capital of France?",
       "options": [
@@ -99,4 +101,5 @@
       ],
       "correctAnswer": 2
     }
-  ]  
+  ]
+}
